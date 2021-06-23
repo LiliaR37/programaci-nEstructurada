@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DBA8F815268390F70066B397 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBA8F814268390F70066B397 /* main.cpp */; };
+		DBA8F8232683ACA60066B397 /* reto.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBA8F8222683ACA60066B397 /* reto.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		DBA8F811268390F70066B397 /* platziCursoPrueba */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = platziCursoPrueba; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBA8F814268390F70066B397 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		DBA8F8222683ACA60066B397 /* reto.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = reto.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				DBA8F814268390F70066B397 /* main.cpp */,
+				DBA8F8222683ACA60066B397 /* reto.cpp */,
 			);
 			path = platziCursoPrueba;
 			sourceTree = "<group>";
@@ -118,7 +120,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DBA8F815268390F70066B397 /* main.cpp in Sources */,
+				DBA8F8232683ACA60066B397 /* reto.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
