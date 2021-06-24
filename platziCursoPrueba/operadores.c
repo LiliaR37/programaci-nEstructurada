@@ -1,9 +1,4 @@
 //
-//  operadores.c
-//  platziCursoPrueba
-//
-//  Created by LILIA MARIANGEL on 06/24/21.
-//
 
 #include <stdio.h>
 

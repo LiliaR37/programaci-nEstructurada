@@ -28,14 +28,5 @@ int main() {
     
     printf("El area de la base es: %f \n", area);
     printf("El volumen del cilindro es: %f \n", volumen );
-    
-    
-    
-    
-    
-    
-    
-    
-    
     return 0;
 }

@@ -1,8 +1,6 @@
 //
 //  main.cpp
-//  platziCursoPrueba
-//
-//  Created by LILIA MARIANGEL on 06/23/21.
+//  
 //
 
 #include <iostream>
