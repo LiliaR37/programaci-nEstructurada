@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DBA8F82B2684FA9D0066B397 /* retoOperadoresDos.c in Sources */ = {isa = PBXBuildFile; fileRef = DBA8F82A2684FA9D0066B397 /* retoOperadoresDos.c */; };
+		DBA8F83626851C540066B397 /* retoOperadoresAsinDos.c in Sources */ = {isa = PBXBuildFile; fileRef = DBA8F83326851B070066B397 /* retoOperadoresAsinDos.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +29,10 @@
 		DBA8F8262684EA5A0066B397 /* operadores.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = operadores.c; sourceTree = "<group>"; };
 		DBA8F8282684ED8F0066B397 /* retoOperadoresUno.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = retoOperadoresUno.c; sourceTree = "<group>"; };
 		DBA8F82A2684FA9D0066B397 /* retoOperadoresDos.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = retoOperadoresDos.c; sourceTree = "<group>"; };
+		DBA8F82C26850ED40066B397 /* operadorAsign.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = operadorAsign.c; sourceTree = "<group>"; };
+		DBA8F82F2685108E0066B397 /* operadoresIncre.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = operadoresIncre.c; sourceTree = "<group>"; };
+		DBA8F831268517B40066B397 /* retoOperadoresAsInUno.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = retoOperadoresAsInUno.c; sourceTree = "<group>"; };
+		DBA8F83326851B070066B397 /* retoOperadoresAsinDos.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = retoOperadoresAsinDos.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,10 @@
 				DBA8F8262684EA5A0066B397 /* operadores.c */,
 				DBA8F8282684ED8F0066B397 /* retoOperadoresUno.c */,
 				DBA8F82A2684FA9D0066B397 /* retoOperadoresDos.c */,
+				DBA8F82C26850ED40066B397 /* operadorAsign.c */,
+				DBA8F82F2685108E0066B397 /* operadoresIncre.c */,
+				DBA8F831268517B40066B397 /* retoOperadoresAsInUno.c */,
+				DBA8F83326851B070066B397 /* retoOperadoresAsinDos.c */,
 			);
 			path = platziCursoPrueba;
 			sourceTree = "<group>";
@@ -126,7 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DBA8F82B2684FA9D0066B397 /* retoOperadoresDos.c in Sources */,
+				DBA8F83626851C540066B397 /* retoOperadoresAsinDos.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
