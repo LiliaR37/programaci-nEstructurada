@@ -18,10 +18,12 @@ int main() {
     
 
     
-    if(numIngresado == num){
+    if(numIngresado == num)
+    {
         printf("Muy bien, Adivinaste!!");
     }
-    else {
+    else
+    {
         printf("Ese no es el numero, Perdiste!");
     }
     
