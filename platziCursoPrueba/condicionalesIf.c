@@ -1,8 +1,5 @@
 //
 //  condicionalesIf.c
-//  platziCursoPrueba
-//
-//  Created by LILIA MARIANGEL on 06/25/21.
 //
 
 #include <stdio.h>
