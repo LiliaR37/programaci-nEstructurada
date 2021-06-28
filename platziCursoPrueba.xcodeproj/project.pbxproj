@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DBA8F840268623410066B397 /* retoOperadoresLDos.c in Sources */ = {isa = PBXBuildFile; fileRef = DBA8F83F268623410066B397 /* retoOperadoresLDos.c */; };
+		DBA8F859268A4BEF0066B397 /* retoArreglos.c in Sources */ = {isa = PBXBuildFile; fileRef = DBA8F858268A4BEF0066B397 /* retoArreglos.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +38,16 @@
 		DBA8F83B268615440066B397 /* condicionalesIfElse.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = condicionalesIfElse.c; sourceTree = "<group>"; };
 		DBA8F83D26861DB60066B397 /* retoOperadoresL.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = retoOperadoresL.c; sourceTree = "<group>"; };
 		DBA8F83F268623410066B397 /* retoOperadoresLDos.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = retoOperadoresLDos.c; sourceTree = "<group>"; };
+		DBA8F84126864D1B0066B397 /* switch.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = switch.c; sourceTree = "<group>"; };
+		DBA8F84326864FE40066B397 /* retoSwitch.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = retoSwitch.c; sourceTree = "<group>"; };
+		DBA8F84726865EEA0066B397 /* while.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = while.c; sourceTree = "<group>"; };
+		DBA8F84926865FDC0066B397 /* whileReto.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = whileReto.c; sourceTree = "<group>"; };
+		DBA8F84B268A25D30066B397 /* for.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = for.c; sourceTree = "<group>"; };
+		DBA8F84F268A354B0066B397 /* forReto.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = forReto.c; sourceTree = "<group>"; };
+		DBA8F851268A40400066B397 /* retoWhile.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = retoWhile.c; sourceTree = "<group>"; };
+		DBA8F853268A43150066B397 /* doWhile.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = doWhile.c; sourceTree = "<group>"; };
+		DBA8F856268A463F0066B397 /* arreglos.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = arreglos.c; sourceTree = "<group>"; };
+		DBA8F858268A4BEF0066B397 /* retoArreglos.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = retoArreglos.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +94,16 @@
 				DBA8F837268610880066B397 /* RetoCondIf.c */,
 				DBA8F83D26861DB60066B397 /* retoOperadoresL.c */,
 				DBA8F83F268623410066B397 /* retoOperadoresLDos.c */,
+				DBA8F84126864D1B0066B397 /* switch.c */,
+				DBA8F84326864FE40066B397 /* retoSwitch.c */,
+				DBA8F84726865EEA0066B397 /* while.c */,
+				DBA8F84926865FDC0066B397 /* whileReto.c */,
+				DBA8F84B268A25D30066B397 /* for.c */,
+				DBA8F84F268A354B0066B397 /* forReto.c */,
+				DBA8F851268A40400066B397 /* retoWhile.c */,
+				DBA8F853268A43150066B397 /* doWhile.c */,
+				DBA8F856268A463F0066B397 /* arreglos.c */,
+				DBA8F858268A4BEF0066B397 /* retoArreglos.c */,
 			);
 			path = platziCursoPrueba;
 			sourceTree = "<group>";
@@ -144,7 +164,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DBA8F840268623410066B397 /* retoOperadoresLDos.c in Sources */,
+				DBA8F859268A4BEF0066B397 /* retoArreglos.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
