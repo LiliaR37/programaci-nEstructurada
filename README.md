@@ -1,3 +1,3 @@
 # Programacion Estructurada 📚
 
-Resumen y retos de las clases. 
+Resumen y retos de las clases 
