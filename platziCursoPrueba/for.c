@@ -29,3 +29,10 @@ int main() {
     
     return 0;
 }
+
+/*
+ for(int i = 100; i > 0; i--)
+ {//Notemos que escribir i-- es lo mismo a escribir i = i - 1
+     printf("%i \n",i);
+ }
+ */
